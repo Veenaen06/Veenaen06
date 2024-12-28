@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Veena E N</h1>
 <h3 align="center">I specialize in programming languages and I am always eager to explore new technologies😎 - currently,i am working to build AI and Machine learning based projects. Check out my repositories for cool projects I've been working on....</h3>
-<img src="https://stockcake.com/i/coder-at-work_1256426_1104035.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veenaen06&label=Profile%20views&color=0e75b6&style=flat" alt="veenaen06" /> </p>
 
